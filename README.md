@@ -14,9 +14,7 @@
 
 * *Code Contribution:* Fork the repository, create a new branch, and implement your solution. 
 
-* *Pull Request*: Once the code is complete, create a pull request to the original repository. Pull requests must be started within the processing period to be 
-
-considered. ³ 
+* *Pull Request*: Once the code is complete, create a pull request to the original repository. Pull requests must be started within the processing period to be considered. ³ 
 
 * *Code Review and Feedback*: Be open to feedback and suggestions from the project maintainers and other contributors. 
 
