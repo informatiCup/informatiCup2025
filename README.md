@@ -22,7 +22,7 @@
 
 **Additional Requirements:** 
 
-* *Documentation***:** The code should be well-documented, including clear docstrings explaining its purpose, parameters, and return value. 
+* *Documentation*: The code should be well-documented, including clear docstrings explaining its purpose, parameters, and return value. 
 
 * *Demonstration*: Create a demo or tutorial showcasing the implemented feature. Provide clear instructions and examples for users to understand and utilize the implemented feature. 
 
@@ -30,7 +30,8 @@
 
 * *Testing*: Your project should rely on unit and integration tests to ensure the correctness of the implementation. 
 
-¹ Choose your project at GitHub, GitLab, Codeberg or a similar hosting platform. A good indicator of an active community is the number of stars, an actively managed issue log as well as regular merges and releases.   
+¹ Choose your project at GitHub, GitLab, Codeberg or a similar hosting platform. A good indicator of an active community is the number of stars, an actively managed issue log as well as regular merges and releases.
+
 ² Great inspiration for potential features and complex bug fixes would be repositories and issues labelled with hacktoberfest or good first issue. 
 
 ³ The pull request has to follow the code contribution guidelines of the forked repository and satisfy all automated checks that are part of the projects’ test suites. Your pull request does not have to be merged for a valid submission. ⁴ excluding references, single or double column allowed, main text font size 10-12pt
