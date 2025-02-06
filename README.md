@@ -42,7 +42,9 @@
 
 * *Code Quality*: Assess the quality of the code, including readability, efficiency, and adherence to coding standards. 
 
-* *Problem-Solving Skills*: Evaluate the participant's ability to understand and solve the problem. Consider the difficulty level as well as additional implications of the problem. ● *Collaboration and Community Engagement*: Assess the participant's willingness to collaborate with others and their ability to work in a team. Evaluate the participant's level of engagement with the Open Source community. 
+* *Problem-Solving Skills*: Evaluate the participant's ability to understand and solve the problem. Consider the difficulty level as well as additional implications of the problem. 
+
+* *Collaboration and Community Engagement*: Assess the participant's willingness to collaborate with others and their ability to work in a team. Evaluate the participant's level of engagement with the Open Source community. 
 
 * *Documentation*: Evaluate the written project documentation. Consider a clear writing style, a good layout as well as a well researched background following academic standards. Assess the comprehensibility of the demo. 
 
