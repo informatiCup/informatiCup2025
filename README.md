@@ -34,7 +34,9 @@
 
 ² Great inspiration for potential features and complex bug fixes would be repositories and issues labelled with hacktoberfest or good first issue. 
 
-³ The pull request has to follow the code contribution guidelines of the forked repository and satisfy all automated checks that are part of the projects’ test suites. Your pull request does not have to be merged for a valid submission. ⁴ excluding references, single or double column allowed, main text font size 10-12pt
+³ The pull request has to follow the code contribution guidelines of the forked repository and satisfy all automated checks that are part of the projects’ test suites. Your pull request does not have to be merged for a valid submission. 
+
+⁴ excluding references, single or double column allowed, main text font size 10-12pt
 
 **Coding Challenge Evaluation:**   
 
