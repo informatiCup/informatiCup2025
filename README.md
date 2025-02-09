@@ -4,7 +4,11 @@
 
 **informatiCup 2025 Challenge:** Participate in the Open \- Make Your Team OSS-Contribution\! 
 
-**Motivation:** Open Source is everywhere: More than 90 percent of all software projects and largest companies use Open Source software. Contributing to Open Source projects is a large advantage for software developers, students, researchers and any IT enthusiasts as it does not only significantly improve technical skills but also soft skills like collaboration, communication, marketing, conflict management resulting in much higher chances in the job market. However, the contribution barriers for larger Open Source projects have shifted significantly as well. Most core contributors are paid, long tenured software professionals and automated quality checks and contribution guidelines can look very intimidating for beginners. The goal of this years’ InformatiCup is to encourage students to get over this initial contribution hurdle and unlock the many rewards of a potential career involving Open Source related development. 
+**Motivation:** Open Source is everywhere: More than 90 percent of all software projects and largest companies use Open Source software. Contributing to Open Source projects is a large advantage for software developers, students, researchers and any IT enthusiasts as it does not only significantly improve technical skills but also soft skills like collaboration, communication, marketing, conflict management resulting in much higher chances in the job market. However, the contribution barriers for larger Open Source projects have shifted significantly as well. Most core contributors are paid, long tenured software professionals and automated quality checks and contribution guidelines can look very intimidating for beginners. The goal of this years’ InformatiCup is to encourage students to get over this initial contribution hurdle and unlock the many rewards of a potential career involving Open Source related development.
+
+**Official Information - Where to register**
+
+[Offical web site](https://informaticup.gi.de/die-aufgabe) from the [Gesellschaft für Informatik](https://gi.de) (German Computer Science Association)
 
 **Task Description:** 
 
