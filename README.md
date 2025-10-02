@@ -64,3 +64,51 @@ By focusing on Open Source contributions, we can not only test coding skills but
 **Februar bis Juni 2025**: Aufgabenbearbeitung
 
 **Mitte September 2025**: Finale auf dem [INFORMATIK FESTIVAL 2025](https://informatik2025.gi.de/) am HPI Potsdam (parallel zur [SKILL](https://skill.gi.de/) und [TechCrush](https://techcrush.org/)).
+
+## Ergebnisse
+
+### 🥇 **1. Platz: Team Lufthamsdaa (Nordakademie Hochschule der Wirtschaft)**
+- **Teammitglieder:** Daniel Schatz, Lauritz Wiebusch, Sören Panten, Marco Brandt (Dual-Studenten bei Lufthansa)
+- **Projekt:** FileExplorer Enhancement
+- **Pull Request:** https://github.com/conaticus/FileExplorer/pull/92
+- **Besondere Leistungen:**
+  - Erfolgreiche Kollaboration mit YouTuber (250.000+ Views-Reichweite)
+  - Umfassende Verbesserungen am File Explorer mit VIBE Coding-Ansatz
+  - 500+ optimierte Commits in enger Zusammenarbeit mit der Community
+  - Integration aller Funktionalitäten durch YouTube-Community-Feedback
+  - Merge erfolgte rechtzeitig zur Endrunde
+  - Geplante Follow-up-Dokumentation für weitere Community-Reichweite
+
+### 🥈 **2. Platz: Team UP-Elite (Universität Potsdam)**
+- **Teammitglieder:** Florian Frankreiter, Richard Hegewald
+- **Projekt:** ASP Language Support VS Code Extension
+- **Pull Request:** https://github.com/CaptainUnbrauchbar/asp-language-support/pull/58
+- **Herausragende Impact-Leistung:**
+  - Revolutionierung der SAT-/ASP-Solver-Nutzung an Universitäten
+  - Reduktion des Setup-Prozesses von 15+ Minuten auf einen Klick
+  - Weltweite Dankeschön-E-Mails von Studenten und Professoren
+  - Direkte Verbesserung des Studienalltags für ASP-Programmierung
+  - InformatiCup-Empfehlung für weitere plattformkompatible Entwicklung
+
+### 🥉 **3. Platz: Team "team name not licensed under the GPL3" (TU Berlin)**
+- **Teammitglieder:** @versjon, @kro-ma
+- **Projekt:** NumDot Boids Algorithm für Godot Game Engine
+- **Pull Request:** https://github.com/Ivorforce/NumDot/pull/171
+- **Außergewöhnliche Präsentation:**
+  - Einzigartige Godot-basierte Präsentation (Godot als PowerPoint-Ersatz)
+  - "Inception-Moment": Boids-Algorithmus war Teil der Live-Präsentation
+  - Maintainer-Feedback-Loop: NumDot-Entwickler verbesserten nach dem Merge die Bibliothek für bessere Performance
+  - Perfektes Beispiel für inspirierende Open Source Kollaboration
+  - Bereits im Juni 2025 erfolgreich integriert
+
+### 🎯 **4. Platz + Postman Award: Team Jellyfin (TH Ingolstadt)**
+- **Teammitglieder:** Lion Hillebrand, Robert Stone, Daniel Ungar
+- **Projekt:** Discord Rich Presence Integration für Jellyfin Media Player
+- **Pull Request:** https://github.com/jellyfin/jellyfin-media-player/pull/948
+- **Postman Award für Durchhaltevermögen:**
+  - Intensive API-Troubleshooting und technische Herausforderungen gemeistert
+  - Konstruktive Zusammenarbeit mit Maintainern trotz Schwierigkeiten
+  - 37 Commits mit komplexer Cross-Platform-Integration
+  - Ermutigung zur finalen Fertigstellung des lange bearbeiteten Pull Requests
+  - Vorbildliches "Never give up"-Mindset in der Open Source Community
+
