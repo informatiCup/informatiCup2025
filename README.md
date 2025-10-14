@@ -27,33 +27,33 @@
 
 **Aufgabenbeschreibung:**
 
-* *Projektauswahl:* Wähle ein Projekt aus Millionen von Open Source Projekten, das zu deinen Interessen passt. Wir möchten die Auswahl auf bestehende Open Source Projekte mit einer aktiven Community beschränken. ¹
+* *Projektauswahl:* Wähle ein Projekt aus Millionen von Open Source Projekten, das zu deinen Interessen passt. Wir möchten die Auswahl auf bestehende Open Source Projekte mit einer aktiven Community beschränken. Wähle dein Projekt auf GitHub, GitLab, Codeberg oder einer ähnlichen Hosting-Plattform. Ein guter Indikator für eine aktive Community ist die Anzahl der Sterne, ein aktiv verwaltetes Issue-Log sowie regelmäßige Merges und Releases.
 
-* *Aufgabenidentifikation:* Identifiziere einen spezifischen Algorithmus oder eine Funktion, an der du arbeiten möchtest. Dies umfasst das Hinzufügen einer neuen oder die Verbesserung einer bestehenden Funktionalität des Projekts. ²
+* *Aufgabenidentifikation:* Identifiziere einen spezifischen Algorithmus oder eine Funktion, an der du arbeiten möchtest. Dies umfasst das Hinzufügen einer neuen oder die Verbesserung einer bestehenden Funktionalität des Projekts. Großartige Inspiration für potenzielle Features und komplexe Bugfixes wären Repositories und Issues, die mit hacktoberfest oder good first issue gelabelt sind.
 
 * *Code-Beitrag:* Erstelle einen Fork des Repositories, erstelle einen neuen Branch und implementiere deine Lösung.
 
-* *Pull Request*: Sobald der Code vollständig ist, erstelle einen Pull Request zum ursprünglichen Repository. Pull Requests müssen innerhalb der Bearbeitungszeit gestartet werden, um berücksichtigt zu werden. ³
+* *Pull Request*: Sobald der Code vollständig ist, erstelle einen Pull Request zum ursprünglichen Repository. Pull Requests müssen innerhalb der Bearbeitungszeit gestartet werden, um berücksichtigt zu werden. Der Pull Request muss den Code-Beitragsrichtlinien des geforkten Repositories folgen und alle automatisierten Prüfungen bestehen, die Teil der Projekttest-Suites sind. Dein Pull Request muss nicht gemergt werden für eine gültige Einreichung.
 
 * *Code Review und Feedback*: Sei offen für Feedback und Vorschläge von den Projektbetreuern und anderen Mitwirkenden.
 
-* *Ausarbeitung*: Dokumentiere schließlich dein Projekt in einem begleitenden Dokument im Umfang von 8 bis 12 Seiten. ⁴
+* *Ausarbeitung*: Dokumentiere schließlich dein Projekt in einem begleitenden Dokument im Umfang von 8 bis 12 Seiten. Ausgenommen Referenzen, ein- oder zweispaltig erlaubt, Haupttext-Schriftgröße 10-12pt.
 
 ~
 
 **Task Description:**
 
-* *Project Selection:* Select a project that aligns with your interests from millions of Open Source projects. We would like to restrict the selection to existing Open Source projects with an active community. ¹
+* *Project Selection:* Select a project that aligns with your interests from millions of Open Source projects. We would like to restrict the selection to existing Open Source projects with an active community. Choose your project at GitHub, GitLab, Codeberg or a similar hosting platform. A good indicator of an active community is the number of stars, an actively managed issue log as well as regular merges and releases.
 
-* *Task Identification:* Identify a specific algorithm or feature to work on. This includes adding a novel or improving an existing functionality of the project. ²
+* *Task Identification:* Identify a specific algorithm or feature to work on. This includes adding a novel or improving an existing functionality of the project. Great inspiration for potential features and complex bug fixes would be repositories and issues labelled with hacktoberfest or good first issue.
 
 * *Code Contribution:* Fork the repository, create a new branch, and implement your solution.
 
-* *Pull Request*: Once the code is complete, create a pull request to the original repository. Pull requests must be started within the processing period to be considered. ³
+* *Pull Request*: Once the code is complete, create a pull request to the original repository. Pull requests must be started within the processing period to be considered. The pull request has to follow the code contribution guidelines of the forked repository and satisfy all automated checks that are part of the projects' test suites. Your pull request does not have to be merged for a valid submission.
 
 * *Code Review and Feedback*: Be open to feedback and suggestions from the project maintainers and other contributors.
 
-* *Elaboration*: Finally, document your project in an accompanying document ranging between 8 and 12 pages. ⁴
+* *Elaboration*: Finally, document your project in an accompanying document ranging between 8 and 12 pages. Excluding references, single or double column allowed, main text font size 10-12pt.
 
 **Zusätzliche Anforderungen:**
 
@@ -77,27 +77,6 @@
 
 * *Testing*: Your project should rely on unit and integration tests to ensure the correctness of the implementation.
 
-¹ Wähle dein Projekt auf GitHub, GitLab, Codeberg oder einer ähnlichen Hosting-Plattform. Ein guter Indikator für eine aktive Community ist die Anzahl der Sterne, ein aktiv verwaltetes Issue-Log sowie regelmäßige Merges und Releases.
-
-~
-
-¹ Choose your project at GitHub, GitLab, Codeberg or a similar hosting platform. A good indicator of an active community is the number of stars, an actively managed issue log as well as regular merges and releases.
-
-² Großartige Inspiration für potenzielle Features und komplexe Bugfixes wären Repositories und Issues, die mit hacktoberfest oder good first issue gelabelt sind.
-
-~
-
-² Great inspiration for potential features and complex bug fixes would be repositories and issues labelled with hacktoberfest or good first issue.
-
-³ Der Pull Request muss den Code-Beitragsrichtlinien des geforkten Repositories folgen und alle automatisierten Prüfungen bestehen, die Teil der Projekttest-Suites sind. Dein Pull Request muss nicht gemergt werden für eine gültige Einreichung.
-
-⁴ ausgenommen Referenzen, ein- oder zweispaltig erlaubt, Haupttext-Schriftgröße 10-12pt
-
-~
-
-³ The pull request has to follow the code contribution guidelines of the forked repository and satisfy all automated checks that are part of the projects’ test suites. Your pull request does not have to be merged for a valid submission.
-
-⁴ excluding references, single or double column allowed, main text font size 10-12pt
 
 **Bewertung der Coding Challenge:**
 
